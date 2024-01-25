@@ -6,7 +6,7 @@ A Triton kernel implementing fused [SwiGLU](https://arxiv.org/pdf/2002.05202.pdf
 
 ```
 git clone https://github.com/fattorib/fusedswiglu.git
-cd fused_swiglu
+cd fusedswiglu
 pip install .
 ```
 
